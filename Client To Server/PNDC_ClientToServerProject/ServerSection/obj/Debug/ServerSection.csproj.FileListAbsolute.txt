@@ -1,0 +1,20 @@
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\bin\Debug\ServerSection.exe.config
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\bin\Debug\ServerSection.exe
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\bin\Debug\ServerSection.pdb
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.formServerLogin.resources
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.Properties.Resources.resources
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.csproj.GenerateResource.Cache
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.exe
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.pdb
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.csprojResolveAssemblyReference.cache
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.formServer.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\bin\Debug\ServerSection.exe.config
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\bin\Debug\ServerSection.exe
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\bin\Debug\ServerSection.pdb
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.csprojResolveAssemblyReference.cache
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.formServer.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.formServerLogin.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.Properties.Resources.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.csproj.GenerateResource.Cache
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.exe
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\ServerSection\obj\Debug\ServerSection.pdb

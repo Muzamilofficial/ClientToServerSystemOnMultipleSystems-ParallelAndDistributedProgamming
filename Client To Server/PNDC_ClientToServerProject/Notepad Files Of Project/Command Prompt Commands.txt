@@ -1,0 +1,12 @@
+First go to cmd and then follow these 2 commands for finding IP Address and No Of Port
+
+192.168.0.103:139
+192.168.0.103:1027
+
+************* Finding IP Address *************
+ip config
+
+************* Findingf The Port *************
+netstat -a
+
+

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9EE62BB5-79A9-4B1D-BD75-16D2FE2345DA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PNDC_ClientToServerProject</RootNamespace>
+    <AssemblyName>PNDC_ClientToServerProject</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="formClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formClient.Designer.cs">
+      <DependentUpon>formClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formEmojis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEmojis.Designer.cs">
+      <DependentUpon>formEmojis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formSelectionDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSelectionDashboard.Designer.cs">
+      <DependentUpon>formSelectionDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SendServerFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SendServerFiles.Designer.cs">
+      <DependentUpon>Form_SendServerFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notificationform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notificationform.Designer.cs">
+      <DependentUpon>Notificationform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="formClient.resx">
+      <DependentUpon>formClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEmojis.resx">
+      <DependentUpon>formEmojis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSelectionDashboard.resx">
+      <DependentUpon>formSelectionDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SendServerFiles.resx">
+      <DependentUpon>Form_SendServerFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notificationform.resx">
+      <DependentUpon>Notificationform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\smile emoji1.png" />
+    <None Include="Resources\unamused face emoji.png" />
+    <None Include="Resources\ultra laughing emoji.png" />
+    <None Include="Resources\truimpt emoji.png" />
+    <None Include="Resources\tougue out emoji.png" />
+    <None Include="Resources\thinking emoji.png" />
+    <None Include="Resources\smile emoji.png" />
+    <None Include="Resources\sick emoji.png" />
+    <None Include="Resources\love emoji.png" />
+    <None Include="Resources\laughing emoji.png" />
+    <None Include="Resources\glasses emoji.png" />
+    <None Include="Resources\fire emoji.png" />
+    <None Include="Resources\finky face emoji.png" />
+    <None Include="Resources\crying laughing emoji.png" />
+    <None Include="Resources\crying emoji.png" />
+    <None Include="Resources\cool emoji.png" />
+    <None Include="Resources\clap emoji.png" />
+    <None Include="Resources\badly crying emoji.png" />
+    <None Include="Resources\bad face emoji.png" />
+    <None Include="Resources\Angel emoji.png" />
+    <None Include="Resources\all the best emoji.png" />
+    <None Include="Resources\happy smile emoji1.png" />
+    <None Include="Resources\dnd-24.png" />
+    <None Include="Resources\arrow-99-24.png" />
+    <None Include="Resources\arrow-32-16.png" />
+    <None Include="Resources\happy smile emoji.png" />
+    <None Include="Resources\refresh-24.png" />
+    <None Include="Resources\1-removebg-preview.png" />
+    <None Include="Resources\login-16.png" />
+    <None Include="Resources\set-removebg-preview.png" />
+    <None Include="Resources\shutdown-icon-18-24.png" />
+    <None Include="Resources\combo-24.png" />
+    <None Include="Resources\group-24.png" />
+    <None Include="Resources\contacts-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ServerSection\ServerSection.csproj">
+      <Project>{ffa6c8e2-7a9f-4b46-9d85-b1e45fac0b25}</Project>
+      <Name>ServerSection</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

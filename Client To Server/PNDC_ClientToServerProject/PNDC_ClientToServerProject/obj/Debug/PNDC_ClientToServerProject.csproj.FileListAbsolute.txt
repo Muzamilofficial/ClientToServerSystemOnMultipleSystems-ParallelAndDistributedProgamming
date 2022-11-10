@@ -1,0 +1,34 @@
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\PNDC_ClientToServerProject.exe.config
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\PNDC_ClientToServerProject.exe
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\PNDC_ClientToServerProject.pdb
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\MetroFramework.dll
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\MetroFramework.Fonts.dll
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.csprojResolveAssemblyReference.cache
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.Properties.Resources.resources
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.csproj.GenerateResource.Cache
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.exe
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.pdb
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.formClient.resources
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.formSelectionDashboard.resources
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\ServerSection.exe
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\ServerSection.pdb
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.formEmojis.resources
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.Form_SendServerFiles.resources
+E:\5th Semister\Parellel And Distributed Programming\Project\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.Notificationform.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\PNDC_ClientToServerProject.exe.config
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.exe
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.pdb
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\PNDC_ClientToServerProject.exe
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\PNDC_ClientToServerProject.pdb
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\MetroFramework.dll
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\MetroFramework.Fonts.dll
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\ServerSection.exe
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\bin\Debug\ServerSection.pdb
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.csprojResolveAssemblyReference.cache
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.formClient.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.formEmojis.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.formSelectionDashboard.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.Form_SendServerFiles.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.Notificationform.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.Properties.Resources.resources
+G:\Degree Projects\Parellel & Distributed Progamming\Client To Server\PNDC_ClientToServerProject\PNDC_ClientToServerProject\obj\Debug\PNDC_ClientToServerProject.csproj.GenerateResource.Cache
